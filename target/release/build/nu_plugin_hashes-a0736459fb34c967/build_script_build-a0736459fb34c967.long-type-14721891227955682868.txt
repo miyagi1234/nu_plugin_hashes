@@ -1,0 +1,3 @@
+CoreWrapper<Skein512Core<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>, B0>, B0>, B0>, B0>>>
+CoreWrapper<Skein512Core<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>, B0>, B0>, B0>, B0>>>: digest::DynDigest
+Box<CoreWrapper<Skein512Core<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>, B0>, B0>, B0>, B0>>>>

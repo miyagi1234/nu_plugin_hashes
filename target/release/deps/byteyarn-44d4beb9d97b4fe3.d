@@ -1,0 +1,12 @@
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/byteyarn-44d4beb9d97b4fe3.d: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/boxed.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/convert.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/raw.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/reffed.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/utf8.rs
+
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/libbyteyarn-44d4beb9d97b4fe3.rlib: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/boxed.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/convert.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/raw.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/reffed.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/utf8.rs
+
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/libbyteyarn-44d4beb9d97b4fe3.rmeta: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/boxed.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/convert.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/raw.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/reffed.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/utf8.rs
+
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/lib.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/boxed.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/convert.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/raw.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/reffed.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteyarn-0.5.1/src/utf8.rs:

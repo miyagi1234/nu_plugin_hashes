@@ -1,0 +1,11 @@
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/nu_derive_value-510e1ecbeb1bb6a3.d: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/attributes.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/case.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/error.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/from.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/into.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/names.rs
+
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/libnu_derive_value-510e1ecbeb1bb6a3.so: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/attributes.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/case.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/error.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/from.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/into.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/names.rs
+
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/lib.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/attributes.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/case.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/error.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/from.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/into.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nu-derive-value-0.112.2/src/names.rs:

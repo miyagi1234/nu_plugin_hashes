@@ -1,0 +1,2 @@
+<KangarooTwelveCommand as PluginCommand>::run::WriteXof<'_, KangarooTwelve>
+&mut <KangarooTwelveCommand as PluginCommand>::run::WriteXof<'_, KangarooTwelve>

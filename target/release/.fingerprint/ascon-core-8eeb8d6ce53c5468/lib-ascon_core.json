@@ -1,0 +1,1 @@
+{"rustc":7458672600737419911,"features":"[]","declared_features":"[\"no_unroll\", \"zeroize\"]","target":5688894488200852793,"profile":17984201634715228204,"path":1830672816317075316,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/ascon-core-8eeb8d6ce53c5468/dep-lib-ascon_core","checksum":false}}],"rustflags":[],"config":8247474407144887393,"compile_kind":0}

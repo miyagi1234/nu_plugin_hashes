@@ -1,0 +1,3 @@
+CoreWrapper<CtVariableCoreWrapper<ShabalVarCore, UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>, B0>, B0>, B0>>>
+CoreWrapper<CtVariableCoreWrapper<ShabalVarCore, UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>, B0>, B0>, B0>>>: digest::DynDigest
+Box<CoreWrapper<CtVariableCoreWrapper<ShabalVarCore, UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>, B0>, B0>, B0>>>>

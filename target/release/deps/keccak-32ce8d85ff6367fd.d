@@ -1,0 +1,12 @@
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/keccak-32ce8d85ff6367fd.d: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/soft.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/consts.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/types.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/../README.md
+
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/libkeccak-32ce8d85ff6367fd.rlib: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/soft.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/consts.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/types.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/../README.md
+
+/home/andre/Downloads/nu_plugin_hashes/target/release/deps/libkeccak-32ce8d85ff6367fd.rmeta: /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/lib.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/soft.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/consts.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/types.rs /home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/../README.md
+
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/lib.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/soft.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/consts.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/types.rs:
+/home/andre/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/../README.md:
